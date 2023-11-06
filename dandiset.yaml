@@ -7,27 +7,9 @@ access:
 - schemaKey: AccessRequirements
   status: dandi:OpenAccess
 assetsSummary:
-  approach:
-  - name: microscopy approach; cell population imaging
-    schemaKey: ApproachType
-  dataStandard:
-  - identifier: RRID:SCR_015242
-    name: Neurodata Without Borders (NWB)
-    schemaKey: StandardsType
-  measurementTechnique:
-  - name: analytical technique
-    schemaKey: MeasurementTechniqueType
-  numberOfBytes: 8689790728
-  numberOfFiles: 1
-  numberOfSubjects: 1
+  numberOfBytes: 0
+  numberOfFiles: 0
   schemaKey: AssetsSummary
-  species:
-  - identifier: http://purl.obolibrary.org/obo/NCBITaxon_6239
-    name: Caenorhabditis elegans
-    schemaKey: SpeciesType
-  variableMeasured:
-  - PlaneSegmentation
-  - ProcessingModule
 citation: Kimura, Kotaro (2023) Whole brain spontaneous activity plus NeuroPAL images
   of semi-restricted worms (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000680/draft
 contributor:
